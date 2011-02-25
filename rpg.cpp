@@ -1,7 +1,7 @@
 /* 
 Dan's Quest
 A Beginners RPG
-©2002 Daniel Reichert
+(c)2002 Daniel Reichert
 Written and Coded by Daniel Reichert
 Start Date: October 3, 2002
 Revision 1.9 - May 18, 2003
